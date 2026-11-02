@@ -16,6 +16,10 @@ that turned out to be unnecessary, and the ones that went wrong.
 Trend discovery → LLM script → free TTS voiceover → cinematic motion rendering → Telegram review →
 YouTube upload. Python, ffmpeg, YouTube Data API, running unattended on a VPS.
 
+**[skill-atlas](https://github.com/ahmadvahidi/skill-atlas)** — forty production-grade agent
+skills (planning, TDD, review, security) curated out of 314, with a generated map of the harness,
+a full catalogue, and a sparse-clone installer. MIT, works with Claude Code, Codex, Cursor and Hermes.
+
 **[NameScout](https://github.com/ahmadvahidi/NameScout)** — find a person's footprint across
 Instagram, TikTok, GitHub, YouTube, Twitch, Pinterest and Linktree from a name or username.
 
